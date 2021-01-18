@@ -31,3 +31,19 @@ D:\CURSOS 2020-II\DAW\.Net_EntityFramework_MVC_CAPAS\Infraestructure\obj\Debug\I
 D:\CURSOS 2020-II\DAW\.Net_EntityFramework_MVC_CAPAS\Infraestructure\obj\Debug\Infraestructure.csproj.CopyComplete
 D:\CURSOS 2020-II\DAW\.Net_EntityFramework_MVC_CAPAS\Infraestructure\obj\Debug\Infraestructure.dll
 D:\CURSOS 2020-II\DAW\.Net_EntityFramework_MVC_CAPAS\Infraestructure\obj\Debug\Infraestructure.pdb
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\bin\Debug\Infraestructure.dll.config
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\bin\Debug\Infraestructure.dll
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\bin\Debug\Infraestructure.pdb
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\bin\Debug\Domain.dll
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\bin\Debug\EntityFramework.dll
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\bin\Debug\Domain.pdb
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\bin\Debug\EntityFramework.xml
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\obj\Debug\Infraestructure.csprojAssemblyReference.cache
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\obj\Debug\Infraestructure.csproj.CopyComplete
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\obj\Debug\Infraestructure.dll
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\obj\Debug\Infraestructure.pdb
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\obj\Debug\Infraestructure.Migrations.v1.resources
+D:\.EntityFramework_MVC_Capas-master\Infraestructure\obj\Debug\Infraestructure.csproj.GenerateResource.cache

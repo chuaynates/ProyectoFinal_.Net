@@ -9,3 +9,9 @@ D:\CURSOS 2020-II\DAW\.Net_EntityFramework_MVC_CAPAS\Domain\obj\Debug\Domain.csp
 D:\CURSOS 2020-II\DAW\.Net_EntityFramework_MVC_CAPAS\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 D:\CURSOS 2020-II\DAW\.Net_EntityFramework_MVC_CAPAS\Domain\obj\Debug\Domain.dll
 D:\CURSOS 2020-II\DAW\.Net_EntityFramework_MVC_CAPAS\Domain\obj\Debug\Domain.pdb
+D:\.EntityFramework_MVC_Capas-master\Domain\bin\Debug\Domain.dll
+D:\.EntityFramework_MVC_Capas-master\Domain\bin\Debug\Domain.pdb
+D:\.EntityFramework_MVC_Capas-master\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+D:\.EntityFramework_MVC_Capas-master\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\.EntityFramework_MVC_Capas-master\Domain\obj\Debug\Domain.dll
+D:\.EntityFramework_MVC_Capas-master\Domain\obj\Debug\Domain.pdb

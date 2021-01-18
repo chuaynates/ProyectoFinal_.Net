@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Service
 {
-    public class ProductService
+    public class ProductoService
     {
         public List<Producto> Get()
         {

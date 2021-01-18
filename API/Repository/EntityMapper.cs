@@ -13,8 +13,8 @@ namespace API.Repository
 
         public EntityMapper()
         {
-            Mapper.CreateMap<Models.StudentModel, Student>();
-            Mapper.CreateMap<Student, Models.StudentModel>();
+            Mapper.CreateMap<Models.ProductoModel, Producto>();
+            Mapper.CreateMap<Producto, Models.ProductoModel>();
 
         }
 

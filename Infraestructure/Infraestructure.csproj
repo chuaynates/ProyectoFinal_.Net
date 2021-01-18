@@ -52,9 +52,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+<<<<<<< HEAD
     <Compile Include="Migrations\202101182213338_v1.cs" />
     <Compile Include="Migrations\202101182213338_v1.designer.cs">
       <DependentUpon>202101182213338_v1.cs</DependentUpon>
+=======
+    <Compile Include="Migrations\202101182212134_v1.cs" />
+    <Compile Include="Migrations\202101182212134_v1.designer.cs">
+      <DependentUpon>202101182212134_v1.cs</DependentUpon>
+>>>>>>> master
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -71,8 +77,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <EmbeddedResource Include="Migrations\202101182213338_v1.resx">
       <DependentUpon>202101182213338_v1.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="Migrations\202101182212134_v1.resx">
+      <DependentUpon>202101182212134_v1.cs</DependentUpon>
+>>>>>>> master
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

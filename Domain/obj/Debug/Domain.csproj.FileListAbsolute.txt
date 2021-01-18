@@ -15,9 +15,18 @@ D:\.EntityFramework_MVC_Capas-master\Domain\obj\Debug\Domain.csprojAssemblyRefer
 D:\.EntityFramework_MVC_Capas-master\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 D:\.EntityFramework_MVC_Capas-master\Domain\obj\Debug\Domain.dll
 D:\.EntityFramework_MVC_Capas-master\Domain\obj\Debug\Domain.pdb
+<<<<<<< HEAD
 D:\6to Ciclo\Web Avanzado\Final\Domain\bin\Debug\Domain.dll
 D:\6to Ciclo\Web Avanzado\Final\Domain\bin\Debug\Domain.pdb
 D:\6to Ciclo\Web Avanzado\Final\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
 D:\6to Ciclo\Web Avanzado\Final\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 D:\6to Ciclo\Web Avanzado\Final\Domain\obj\Debug\Domain.dll
 D:\6to Ciclo\Web Avanzado\Final\Domain\obj\Debug\Domain.pdb
+=======
+E:\ProjectVisualStudio\6-ciclo\Lab16\ProyectoFinal_.Net\Domain\bin\Debug\Domain.dll
+E:\ProjectVisualStudio\6-ciclo\Lab16\ProyectoFinal_.Net\Domain\bin\Debug\Domain.pdb
+E:\ProjectVisualStudio\6-ciclo\Lab16\ProyectoFinal_.Net\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+E:\ProjectVisualStudio\6-ciclo\Lab16\ProyectoFinal_.Net\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\ProjectVisualStudio\6-ciclo\Lab16\ProyectoFinal_.Net\Domain\obj\Debug\Domain.dll
+E:\ProjectVisualStudio\6-ciclo\Lab16\ProyectoFinal_.Net\Domain\obj\Debug\Domain.pdb
+>>>>>>> master

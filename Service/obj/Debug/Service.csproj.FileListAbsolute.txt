@@ -14,3 +14,7 @@ E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana1
 E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\Service\obj\Debug\Service.csproj.CopyComplete
 E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\Service\obj\Debug\Service.dll
 E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\Service\obj\Debug\Service.pdb
+D:\.EntityFramework_MVC_Capas-master\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\.EntityFramework_MVC_Capas-master\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\.EntityFramework_MVC_Capas-master\Service\obj\Debug\Service.dll
+D:\.EntityFramework_MVC_Capas-master\Service\obj\Debug\Service.pdb
